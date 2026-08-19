@@ -1,339 +1,284 @@
-HOS TRAINING — Head Therapist Edition
+# HOS Training — Head Therapist Edition
 
-The Human Operating System (HOS)
-
+**The Human Operating System (HOS)**  
 Codified Human Resilience
 
 STIR · Dual Equations · Circuit Breaker · 6-Step Protocol · GRIT
 
 ---
 
-REFERENCE
+## Reference — Glossary
 
-Glossary
-
-Term Definition
-HOS Human Operating System — the full framework treating the person as a high-performance system.
-STIR Stability · Tools · Internalization · Reflection — the four live dashboard variables.
-M₁ Surface Mastery = (S+T)·I + R — current altitude / functional height.
-M₂ Deep Capacity = (S+T)·I − R — structural depth after reflective load.
-Circuit Breaker If S + T < 5 → Safe Mode. No deep work until the system cools.
-GRIT Emotional-load ceiling = lowest STIR variable, mapped 0 → 0.5 → 1.0 → 1.5 → 2.0.
-Safe Mode Containment-only protocol: regulate, resource, stabilize — no processing.
-Reflection Data Every setback, loop, or drop is telemetry that improves the next flight.
-Mismatch A detectable pattern (e.g. High S + Low I) showing where the system is stuck.
-Navigator Integration stage: client owns tools, reactions, and direction — no longer a passenger.
+| Term | Definition |
+|------|------------|
+| **HOS** | Human Operating System — the full framework treating the person as a high-performance system. |
+| **STIR** | Stability · Tools · Internalization · Reflection — the four live dashboard variables. |
+| **M₁** | Surface Mastery = (S + T) · I + R — current altitude / functional height. |
+| **M₂** | Deep Capacity = (S + T) · I − R — structural depth after reflective load. |
+| **Circuit Breaker** | If S + T < 5 → Safe Mode. No deep work until the system cools. |
+| **GRIT** | Emotional-load ceiling = lowest STIR variable, mapped 0 → 0.5 → 1.0 → 1.5 → 2.0. |
+| **Safe Mode** | Containment-only protocol: regulate, resource, stabilize — no processing. |
+| **Reflection Data** | Every setback, loop, or drop is telemetry that improves the next flight. |
+| **Mismatch** | A detectable pattern (e.g. High S + Low I) showing where the system is stuck. |
+| **Navigator** | Integration stage: client owns tools, reactions, and direction — no longer a passenger. |
 
 ---
 
-CONTEXT
+## Context — Why HOS Exists
 
-Why HOS Exists
-
-01 — Structural Gaps
+**01 — Structural Gaps**  
 Most therapy models lack a shared operating language across modalities and clinicians.
 
-02 — No Real-Time Measurement
+**02 — No Real-Time Measurement**  
 Progress is often retrospective. Clinicians lack live telemetry on capacity and risk.
 
-03 — Safety Blind Spots
+**03 — Safety Blind Spots**  
 Without clear circuit breakers, deep work can be attempted when the system is not ready.
 
 ---
 
-ARCHITECTURE
+## Architecture — The HOS Solution
 
-The HOS Solution
-
-· STIR Dashboard — Four live variables that describe system state every session.
-· Dual Equations — M₁ (surface mastery) and M₂ (deep capacity) give altitude and depth.
-· Mismatch Patterns — Detectable signatures that reveal where the system is stuck.
-· Fail-safes + 6-Step Protocol — Circuit Breaker, GRIT, and a clear path from fire to Navigator.
+- **STIR Dashboard** — Four live variables that describe system state every session.
+- **Dual Equations** — M₁ (surface mastery) and M₂ (deep capacity) give altitude and depth.
+- **Mismatch Patterns** — Detectable signatures that reveal where the system is stuck.
+- **Fail-safes + 6-Step Protocol** — Circuit Breaker, GRIT, and a clear path from fire to Navigator.
 
 ---
 
-STIR DASHBOARD
+## STIR Dashboard — The Four Variables
 
-The Four Variables
+| Variable | Name | Definition |
+|----------|------|------------|
+| **S** | Stability | Physiological and emotional baseline. Can the system hold steady under load? |
+| **T** | Tools | Accessible skills and strategies the client can actually deploy. |
+| **I** | Internalization | How deeply skills have moved from external guidance into self-system. |
+| **R** | Reflection | Capacity to observe, learn, and generate useful data from experience. |
 
-Variable Name Definition
-S Stability Physiological and emotional baseline. Can the system hold steady under load?
-T Tools Accessible skills and strategies the client can actually deploy.
-I Internalization How deeply skills have moved from external guidance into self-system.
-R Reflection Capacity to observe, learn, and generate useful data from experience.
+### Rating the Variables
 
----
+**S — Stability (0–10)**  
+- 0 = offline / acute dysregulation  
+- 10 = steady under significant load  
 
-MEASUREMENT
+**T — Tools (0–10)**  
+- 0 = no usable skills in the moment  
+- 10 = flexible toolkit ready for use  
 
-Rating the Variables
+**I — Internalization (0.1–2.0)**  
+- Multiplier: skill lives inside the client vs. requiring external scaffolding  
 
-S — Stability (0 – 10)
-
-· 0 = offline / acute dysregulation
-· 10 = steady under significant load
-
-T — Tools (0 – 10)
-
-· 0 = no usable skills in the moment
-· 10 = flexible toolkit ready for use
-
-I — Internalization (0.1 – 2.0)
-
-· Multiplier: skill lives inside the client vs. requiring external scaffolding
-
-R — Reflection (0 – 10)
-
-· 0 = no reflective capacity
-· 10 = high-resolution learning from every event
+**R — Reflection (0–10)**  
+- 0 = no reflective capacity  
+- 10 = high-resolution learning from every event  
 
 ---
 
-COMPUTATION
+## Computation — The Mastery Equations
 
-The Mastery Equations
+**Surface Mastery**  
+M₁ = (S + T) · I + R  
+*Altitude — how high the system is currently flying, including reflective gain.*
 
-Surface Mastery — M₁ = (S + T) · I + R
-Altitude — how high the system is currently flying, including reflective gain.
+**Deep Capacity**  
+M₂ = (S + T) · I − R  
+*Depth — structural capacity after accounting for reflective load.*
 
-Deep Capacity — M₂ = (S + T) · I − R
-Depth — structural capacity after accounting for reflective load.
+### Operational Ranges
 
-Operational Ranges
-
-Score Interpretation
-0 – 15 Stabilize
-16 – 30 Moderate
-31+ Deep Work
+| Score | Interpretation |
+|-------|----------------|
+| 0–15  | Stabilize |
+| 16–30 | Moderate |
+| 31+   | Deep Work |
 
 ---
 
-FAIL-SAFE
+## Fail-Safe — The Circuit Breaker
 
-The Circuit Breaker
-
-If S + T < 5 → Safe Mode
+**If S + T < 5 → Safe Mode**
 
 When Stability and Tools together fall below threshold, the system is not ready for exploratory or trauma-processing work. Protocol shifts to containment, regulation, and resource building only.
 
-No deep work. No exposure. No EMDR upgrade. Stabilize first.
+**No deep work. No exposure. No EMDR upgrade. Stabilize first.**
 
 ---
 
-DIAGNOSTICS
+## Diagnostics — Mismatch Patterns
 
-Mismatch Patterns
+| Pattern | Signature | Description |
+|---------|-----------|-------------|
+| Performing Wellness | High S + Low I | Looks stable — skills not owned |
+| Knowledge Without Power | High T + Low I | Knows the tools — can’t use them under load |
+| Stagnant Processor | Low R | Experience happens — learning does not |
+| System Crash | S + T < 5 | Circuit breaker tripped — Safe Mode only |
 
-Pattern Signature Description
-Performing Wellness High S + Low I Looks stable — skills not owned
-Knowledge Without Power High T + Low I Knows the tools — can't use them under load
-Stagnant Processor Low R Experience happens — learning does not
-System Crash S + T < 5 Circuit breaker tripped — Safe Mode only
-
----
-
-PATTERN 1 OF 4 — Performing Wellness
-
-High S · Low I
+### Pattern 1 — Performing Wellness  
+**High S · Low I**
 
 The client presents as regulated and functional. Skills exist externally but have not become self-sustaining. Progress looks good on the surface; relapse risk is high when scaffolding is removed.
 
-PRIMARY INTERVENTIONS:
+**Primary Interventions**
+- Prioritize internalization (IFS, self-led practice)
+- Reduce external prompting; test independent use
+- Track I carefully across sessions
+- Avoid deep work until I rises
 
-· Prioritize internalization (IFS, self-led practice)
-· Reduce external prompting; test independent use
-· Track I carefully across sessions
-· Avoid deep work until I rises
-
----
-
-PATTERN 2 OF 4 — Knowledge Without Power
-
-High T · Low I
+### Pattern 2 — Knowledge Without Power  
+**High T · Low I**
 
 The client can name many tools yet cannot access them when dysregulated. Knowledge is intellectual, not embodied or automatic.
 
-PRIMARY INTERVENTIONS:
+**Primary Interventions**
+- Move from teaching to rehearsal under mild load
+- Pair tools with somatic anchors
+- Practice while state is activated (titration)
+- Measure by in-the-moment use, not quizzes
 
-· Move from teaching to rehearsal under mild load
-· Pair tools with somatic anchors
-· Practice while state is activated (titration)
-· Measure by in-the-moment use, not quizzes
-
----
-
-PATTERN 3 OF 4 — Stagnant Processor
-
-Low R
+### Pattern 3 — Stagnant Processor  
+**Low R**
 
 Events occur and the client survives them, but little Reflection Data is generated. Loops stay the same width and altitude. Without reflective capacity, the system cannot climb.
 
-PRIMARY INTERVENTIONS:
+**Primary Interventions**
+- Explicit R’ loop entry every session
+- Structured post-event journaling / Flight Log
+- Therapist models reflective language
+- Lower GRIT until R begins to rise
 
-· Explicit R' loop entry every session
-· Structured post-event journaling / Flight Log
-· Therapist models reflective language
-· Lower GRIT until R begins to rise
-
----
-
-PATTERN 4 OF 4 — System Crash
-
-S + T < 5
+### Pattern 4 — System Crash  
+**S + T < 5**
 
 Circuit Breaker is tripped. Low stability plus low available tools means the system cannot safely process new material. Continuing exploratory work risks further destabilization.
 
-PRIMARY INTERVENTIONS:
-
-· Immediate Safe Mode
-· Somatic regulation and resource installation only
-· No trauma processing, no exposure, no EMDR
-· Rebuild S and T until breaker resets (≥ 5)
+**Primary Interventions**
+- Immediate Safe Mode
+- Somatic regulation and resource installation only
+- No trauma processing, no exposure, no EMDR
+- Rebuild S and T until breaker resets (≥ 5)
 
 ---
 
-PROTOCOL
+## Protocol — Session Flow
 
-Session Flow
+| Step | Action |
+|------|--------|
+| 1 | STIR |
+| 2 | M₁ |
+| 3 | M₂ |
+| 4 | Breaker |
+| 5 | Mismatch |
+| 6 | GRIT |
+| 7 | Intervene |
+| 8 | Re-rate |
 
-Step Action
-1 STIR
-2 M₁
-3 M₂
-4 Breaker
-5 Mismatch
-6 GRIT
-7 Intervene
-8 Re-rate
+### Circuit Breaker Decision
 
-Circuit Breaker Decision
-
-· S + T < 5 → Safe Mode — Contain · Regulate · Resource only
-· S + T ≥ 5 → Proceed — Mismatch → GRIT → Route → Re-rate
+- **S + T < 5** → Safe Mode — Contain · Regulate · Resource only  
+- **S + T ≥ 5** → Proceed — Mismatch → GRIT → Route → Re-rate  
 
 Every session begins and ends with telemetry. The middle is guided by the lowest STIR variable, the Circuit Breaker status, and the current GRIT ceiling.
 
 ---
 
-CLIENT JOURNEY
+## Client Journey — The 6-Step Protocol
 
-The 6-Step Protocol
+| Step | Protocol | Function |
+|------|----------|----------|
+| 1 | Get Out of the Building | Step away from the fire |
+| 2 | Use the Ride | Therapy as transportation |
+| 3 | Take the Keys | Internalize the tools |
+| 4 | Look Through the Window | Revisit the memory safely |
+| 5 | Expect the Wind to Change | Continuous integration |
+| 6 | New Address, New Life | Mastery — become a Navigator |
 
-Step Protocol Function
-1 Get Out of the Building Step away from the fire
-2 Use the Ride Therapy as transportation
-3 Take the Keys Internalize the tools
-4 Look Through the Window Revisit the memory safely
-5 Expect the Wind to Change Continuous integration
-6 New Address, New Life Mastery — become a Navigator
+### Steps 1–3 · From Fire to Driver
 
----
+**Step 1 — Get Out of the Building**  
+*Step Away from the Fire*  
+Stop trying to “fix” or “analyze” the pain while you are being burned. Create immediate physical or mental distance. Get cool first. You cannot run logic on an overheated system.
 
-6-STEP PROTOCOL — Steps 1 – 3 · From Fire to Driver
+**Step 2 — Use the Ride**  
+*Therapy as Transportation*  
+You are on the curb and don’t know the way yet. Let the therapist be the vehicle. They have the map and the keys for now. Use their office as a safe space to move away from the “trap house” of your past.
 
-Step 1 — Get Out of the Building
-Step Away from the Fire
+**Step 3 — Take the Keys**  
+*Internalize the Tools*  
+Watch how the driver handles the wheel. Start moving the coping skills and regulation tools from the therapist’s hands to your own. The goal is to move from “passenger” to “driver.”
 
-Stop trying to "fix" or "analyze" the pain while you are being burned. Create immediate physical or mental distance. Get cool first. You cannot run logic on an overheated system.
+### Steps 4–6 · From Observer to Navigator
 
-Step 2 — Use the Ride
-Therapy as Transportation
+**Step 4 — Look Through the Window**  
+*Revisit the Memory*  
+Now that you are miles away and safe, look back at the old wounds. You are observing a “wilted rose” from a distance. You can see the facts of the story without breathing the smoke of the fire.
 
-You are on the curb and don't know the way yet. Let the therapist be the vehicle. They have the map and the keys for now. Use their office as a safe space to move away from the "trap house" of your past.
+**Step 5 — Expect the Wind to Change**  
+*Continuous Integration*  
+Life will throw a “fickle breeze” your way. Triggers are not system crashes; they are routine updates. When the wind shifts, don’t turn the car around—just use your tools and keep driving.
 
-Step 3 — Take the Keys
-Internalize the Tools
-
-Watch how the driver handles the wheel. Start moving the coping skills and regulation tools from the therapist's hands to your own. The goal is to move from "passenger" to "driver."
-
----
-
-6-STEP PROTOCOL — Steps 4 – 6 · From Observer to Navigator
-
-Step 4 — Look Through the Window
-Revisit the Memory
-
-Now that you are miles away and safe, look back at the old wounds. You are observing a "wilted rose" from a distance. You can see the facts of the story without breathing the smoke of the fire.
-
-Step 5 — Expect the Wind to Change
-Continuous Integration
-
-Life will throw a "fickle breeze" your way. Triggers are not system crashes; they are routine updates. When the wind shifts, don't turn the car around—just use your tools and keep driving.
-
-Step 6 — New Address, New Life
-Mastery
-
-You have reached Integration. You own your head, your heart, and your reactions. The pain has been converted into insight. You are no longer "clean"—you are a Navigator.
+**Step 6 — New Address, New Life**  
+*Mastery*  
+You have reached Integration. You own your head, your heart, and your reactions. The pain has been converted into insight. You are no longer “clean”—you are a Navigator.
 
 ---
 
-INTEGRATION
+## Integration — Modality Mapping
 
-Modality Mapping
-
-Modality Maps To Function
-DBT → T (Tools) Skills training expands the toolkit the client can deploy.
-IFS → I (Internalization) Parts work moves regulation and insight inside the Self-system.
-EMDR → R (Reflection) Adaptive information processing generates Reflection Data and reduces stuck loops.
-HOS Layer → S + Equations + GRIT Stability monitoring, dual mastery scores, and load regulation govern all of the above.
+| Modality | Maps To | Function |
+|----------|---------|----------|
+| DBT | → T (Tools) | Skills training expands the toolkit the client can deploy. |
+| IFS | → I (Internalization) | Parts work moves regulation and insight inside the Self-system. |
+| EMDR | → R (Reflection) | Adaptive information processing generates Reflection Data and reduces stuck loops. |
+| HOS Layer | → S + Equations + GRIT | Stability monitoring, dual mastery scores, and load regulation govern all of the above. |
 
 ---
 
-LANGUAGE
+## Language — Client Translation (Tank Metaphors)
 
-Client Translation — Tank Metaphors
-
-M₁ — Surface Mastery
-"How full is the tank right now, and how well are you flying with what's in it?"
-
+**M₁ — Surface Mastery**  
+“How full is the tank right now, and how well are you flying with what’s in it?”  
 Clients grasp altitude easily. High M₁ means they are functioning and reflecting well in the current conditions.
 
-M₂ — Deep Capacity
-"How strong is the tank itself once we subtract the energy spent reflecting and processing?"
-
+**M₂ — Deep Capacity**  
+“How strong is the tank itself once we subtract the energy spent reflecting and processing?”  
 This keeps the conversation honest: high reflection can inflate surface scores while structural capacity remains limited.
 
 ---
 
-CULTURE
+## Culture — Shame-Proofing
 
-Shame-Proofing
+**Setbacks = Reflection Data**
 
-Setbacks = Reflection Data
-
-In HOS there is no "failure." Every drop in STIR, every tripped Circuit Breaker, every loop that didn't climb is telemetry. The pilot does not get graded on turbulence; the pilot gets better instruments and better next-flight decisions.
+In HOS there is no “failure.” Every drop in STIR, every tripped Circuit Breaker, every loop that didn’t climb is telemetry. The pilot does not get graded on turbulence; the pilot gets better instruments and better next-flight decisions.
 
 ---
 
-TAKEAWAY
+## Takeaway — Closing Insight
 
-Closing Insight
+**HOS turns therapy into navigation.**
 
-HOS turns therapy into navigation.
-
-You stop asking "Is the client better?" and start asking "Where is the system right now, what is the safe load, and what is the next highest-leverage move?"
+You stop asking “Is the client better?” and start asking “Where is the system right now, what is the safe load, and what is the next highest-leverage move?”
 
 ---
 
-CLIENT TOOL
+## Client Tool — Navigator’s Flight Log · GRIT
 
-Navigator's Flight Log · GRIT
+### Daily Cockpit
 
-DAILY COCKPIT
+- Pre-Flight: Rate S + T  
+- If < 5 → Safe Mode  
+- If ≥ 5 → System Ready  
+- Wind Log: Event · Breaker · Tool  
+- Post-Flight: Compute M₁ & M₂  
+- Record Reflection Data  
+- Update baseline  
 
-· Pre-Flight: Rate S + T
-· If < 5 → Safe Mode
-· If ≥ 5 → System Ready
-· Wind Log: Event · Breaker · Tool
-· Post-Flight: Compute M₁ & M₂
-· Record Reflection Data
-· Update baseline
-
-GRIT = LOWEST STIR VARIABLE
+### GRIT = Lowest STIR Variable  
 Emotional load ceiling
 
-Current Ceiling
-0 → 0.5
-0.5 → 1.0
-1.0 → 1.5
-1.5 → 2.0
+| Current Ceiling |
+|-----------------|
+| 0 → 0.5 |
+| 0.5 → 1.0 |
+| 1.0 → 1.5 |
+| 1.5 → 2.0 |
