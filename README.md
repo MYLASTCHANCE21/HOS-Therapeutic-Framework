@@ -160,7 +160,7 @@ Please open an Issue or submit a Pull Request.
 📝 Citation
 
 ```
-Alton, [First Name]. (2026). Clinical Validation White Paper: 
+Alton Bryan. (2026). Clinical Validation White Paper: 
 The HOS Unified Field Theory. Human Operating System Framework. 
 [DOI PENDING]
 ```
