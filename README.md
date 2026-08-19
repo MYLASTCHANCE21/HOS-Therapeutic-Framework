@@ -24,7 +24,7 @@ HOS uses two complementary equations to measure system state:
 
 M₁ — Surface Mastery (Altitude)
 
-M₁ = ((S + T) × I) + R
+M₁ = (S + T) × I) + R
 
 "How full is the tank right now, and how well are you flying with what's in it?"
 
@@ -34,7 +34,7 @@ M₁ = ((S + T) × I) + R
 
 M₂ — Deep Capacity (Structural Depth)
 
-M₂ = ((S + T) × I) − R
+M₂ = (S + T) × I) − R
 
 "How strong is the tank itself once we subtract the energy spent reflecting and processing?"
 
