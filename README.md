@@ -2,13 +2,11 @@ The Human Operating System (HOS)
 
 Codified Human Resilience — Unified Field Theory for Mental Health Integration
 
----
 
 Version: 1.0 (2026 Final Deployment Standard)
 Status: Clinical Validation Complete | Tier 3 (Black Swan) Stress Tested | 100% Systemic Solvency
 License: See LICENSE section below
 
----
 
 📖 What Is HOS?
 
@@ -19,19 +17,47 @@ The Human Operating System (HOS) is the first Universal Motherboard architecture
 · A Universal Middleware that harmonizes all evidence-based modalities (DBT, IFS, EMDR, CBT, Somatic)
 · A Shame-Proof Architecture where setbacks become Reflection Data, not failure
 
-M = ((S + T) × I) + R
 
----
+📐 The Mastery Equations (Dual Measurement)
+
+HOS uses two complementary equations to measure system state:
+
+M₁ — Surface Mastery (Altitude)
+
+M₁ = ((S + T) × I) + R
+
+"How full is the tank right now, and how well are you flying with what's in it?"
+
+· Measures current functional capacity
+· Includes reflective gain (R) as an additive asset
+· Represents how high the system is flying today
+
+M₂ — Deep Capacity (Structural Depth)
+
+M₂ = ((S + T) × I) − R
+
+"How strong is the tank itself once we subtract the energy spent reflecting and processing?"
+
+· Measures structural integrity beneath the surface
+· Accounts for reflective load (R) as a drain on capacity
+· Prevents overestimation of stability when reflection is high
+
+Operational Ranges
+
+Score M₁ Interpretation M₂ Interpretation
+0–15 Stabilize Fragile — Safe Mode Required
+16–30 Moderate Function Developing Capacity
+31+ Deep Work Ready Structural Integrity Confirmed
+
 
 🧩 The Four Variables (STIR)
 
-Variable Name Definition
-S Stability Physiological and emotional baseline. Can the system hold steady under load?
-T Tools Accessible skills and strategies the client can actually deploy
-I Internalization How deeply skills have moved from external guidance into self-system (Multiplier: 0.1–2.0)
-R Reflection Capacity to observe, learn, and generate useful data from experience
+Variable Name Definition Scale
+S Stability Physiological and emotional baseline 0–10
+T Tools Accessible skills and strategies 0–10
+I Internalization How deeply skills are owned (Multiplier) 0.1–2.0
+R Reflection Capacity to observe, learn, and generate data 0–10
 
----
 
 🚦 The Traffic Light Protocol
 
@@ -40,7 +66,6 @@ Light Condition Action
 🟡 YELLOW S + T ≥ 5, Low I SLOW DOWN. Skills are external. Internalize before deepening.
 🟢 GREEN S ≥ 6, T ≥ 6, I ≥ 1.0 PROCEED. System ready for EMDR, trauma narrative, or cognitive reframing.
 
----
 
 🧭 The 6-Step Navigator's Protocol
 
@@ -52,7 +77,6 @@ Step Protocol Function
 5 Expect the Wind Continuous integration — Anticipate triggers as routine updates
 6 New Address, New Life Mastery — Become a Navigator
 
----
 
 📂 Repository Contents
 
@@ -92,7 +116,6 @@ HOS-Clinical-Framework/
 └── LICENSE
 ```
 
----
 
 🚀 Quick Start
 
@@ -114,7 +137,6 @@ For Developers
 2. Fork the repository and submit PRs for the HOS Dashboard App
 3. Build the HOS API for clinical integration
 
----
 
 📜 License
 
@@ -125,7 +147,6 @@ Source Code (App) MIT (Open for development)
 
 Summary: You can read, share, and use the clinical materials in your practice. You cannot sell them. You cannot modify the White Paper without permission. All adaptations of the forms must be shared back.
 
----
 
 🧠 The Core Philosophy
 
@@ -133,16 +154,21 @@ Summary: You can read, share, and use the clinical materials in your practice. Y
 
 In HOS, there is no "failure." Every drop in STIR, every tripped Circuit Breaker, every loop that didn't climb is telemetry. Setbacks are Reflection Data.
 
----
+
+🔬 The Mismatch Map (Diagnostic Patterns)
+
+Pattern Data Signature Problem Intervention
+The Performer High S, High T, Low I Looks stable, skills not owned IFS or Somatic — Internalize first
+Knowledge Without Power High T, Low I Knows tools, can't use them under load Rehearse under load — Somatic anchors
+Stagnant Processor Low R Events happen, learning does not Explicit R' loop — Structured Flight Log
+System Crash S + T < 5 Circuit breaker tripped Safe Mode ONLY — Regulate, Resource, Stabilize
+
 
 🔗 Links
 
 · Preprint (PsyArXiv): [DOI PENDING]
-· Website: [Your Website URL]
-· Pilot Cohort Registration: [Registration Link]
-· Contact: [Your Email]
+· Contact: Alton_bryan1992@yahoo.com
 
----
 
 🤝 Contributing
 
@@ -155,7 +181,6 @@ HOS is open-architecture. We welcome:
 
 Please open an Issue or submit a Pull Request.
 
----
 
 📝 Citation
 
@@ -165,13 +190,8 @@ The HOS Unified Field Theory. Human Operating System Framework.
 [DOI PENDING]
 ```
 
----
 
 🙏 Acknowledgments
 
 HOS was built in the fire—born from lived experience, foster care, and the recognition that the "Old Way" of therapy was a 2D map trying to solve a 3D structural collapse. It is dedicated to everyone who has been told they were "resistant" when they were actually just "overloaded."
-
----
-
-🔱 HOS — Turn therapy into navigation.
 
